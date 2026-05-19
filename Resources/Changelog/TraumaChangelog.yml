@@ -8654,3 +8654,10 @@ Entries:
   id: 990
   time: '2026-05-18T12:05:12.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2675
+- author: Goober
+  changes:
+  - type: Tweak
+    message: Lootbugs can now eat metal rods.
+  id: 991
+  time: '2026-05-19T00:28:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2683
