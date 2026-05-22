@@ -8886,3 +8886,22 @@ Entries:
   id: 1012
   time: '2026-05-22T04:25:01.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2719
+- author: TechnicFighter
+  changes:
+  - type: Add
+    message: Added the Great Wall Lawset.
+  - type: Add
+    message: Added the Bureaucracy Lawset.
+  - type: Add
+    message: Added the Conspiracy Lawset.
+  - type: Add
+    message: Added the Motivational Speaker Lawset.
+  - type: Add
+    message: Added the Mad Scientist Lawset.
+  - type: Add
+    message: Added the Ghost Lawset.
+  - type: Add
+    message: Added the Silence Lawset.
+  id: 1013
+  time: '2026-05-22T05:07:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2688
