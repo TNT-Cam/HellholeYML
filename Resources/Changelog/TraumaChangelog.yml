@@ -8989,3 +8989,10 @@ Entries:
   id: 1023
   time: '2026-05-23T04:04:51.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2751
+- author: MayasMischief
+  changes:
+  - type: Fix
+    message: Fixed coconut crab ghostrole description
+  id: 1024
+  time: '2026-05-23T05:35:28.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2752
