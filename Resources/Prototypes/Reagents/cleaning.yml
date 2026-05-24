@@ -31,9 +31,9 @@
         progressModifier: -0.15 # extremely strong antiviral
   tileReactions:
   - !type:CleanTileReaction
-    cleanCost: 0.13
+    cleanCost: 0.01
   - !type:CleanDecalsReaction
-    cleanCost: 0.13
+    cleanCost: 0.01
 
 - type: reagent
   id: SpaceCleaner
@@ -46,8 +46,10 @@
   boilingPoint: 147.0 # Made this up, loosely based on bleach
   meltingPoint: -11.0
   tileReactions:
-    - !type:CleanTileReaction {}
-    - !type:CleanDecalsReaction {}
+    - !type:CleanTileReaction
+      cleanCost: 0.1
+    - !type:CleanDecalsReaction
+      cleanCost: 0.1
 
 - type: reagent
   id: SoapReagent
