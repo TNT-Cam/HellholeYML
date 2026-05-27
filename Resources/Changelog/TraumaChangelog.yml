@@ -9149,3 +9149,22 @@ Entries:
   id: 1043
   time: '2026-05-27T19:54:59.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2706
+- author: Speebro
+  changes:
+  - type: Tweak
+    message: >-
+      Survival medipen now heals a bit less, you're trading effectiveness for
+      convenience vs. the brute and burn pens.
+  - type: Tweak
+    message: >-
+      Luxury medipen now only contains Luxurium, Tranexamic Acid, and Saline, in
+      exchange Luxurium actually heals now at comparable rates to what the pen
+      gave before, but only within 0-50kPa. Also it's called the Luxurium
+      Medipen now.
+  - type: Tweak
+    message: >-
+      Luxurium damage outside of low pressure works on station, but is less
+      deadly than before.
+  id: 1044
+  time: '2026-05-27T19:57:17.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2797
