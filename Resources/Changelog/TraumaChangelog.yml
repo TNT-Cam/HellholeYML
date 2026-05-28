@@ -9250,3 +9250,10 @@ Entries:
   id: 1052
   time: '2026-05-28T06:49:51.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2802
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Losing a hand now removes your cuffs.
+  id: 1053
+  time: '2026-05-28T07:35:50.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2803
