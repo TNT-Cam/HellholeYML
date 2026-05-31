@@ -9395,3 +9395,10 @@ Entries:
   id: 1066
   time: '2026-05-31T08:45:07.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1718
+- author: Hoodsie
+  changes:
+  - type: Add
+    message: Added Cocaine slime
+  id: 1067
+  time: '2026-05-31T09:49:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2933
