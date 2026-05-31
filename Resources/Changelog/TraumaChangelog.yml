@@ -9363,3 +9363,14 @@ Entries:
   id: 1063
   time: '2026-05-31T06:51:46.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2925
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Poison/airloss/metaphysical/genetic damage only applies to vital parts.
+  - type: Tweak
+    message: >-
+      Poisons/heals split damage to all parts instead of applying fixed amount
+      of damage to every parts again.
+  id: 1064
+  time: '2026-05-31T07:38:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2918
