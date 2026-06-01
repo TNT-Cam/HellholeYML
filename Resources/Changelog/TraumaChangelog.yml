@@ -9501,3 +9501,10 @@ Entries:
   id: 1078
   time: '2026-06-01T17:08:03.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2969
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed AI Triumvurate trait leaving the extra 2 cores unpowered.
+  id: 1079
+  time: '2026-06-01T17:20:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2972
