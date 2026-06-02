@@ -9576,3 +9576,16 @@ Entries:
   id: 1087
   time: '2026-06-02T08:33:11.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2982
+- author: TechnicFighter
+  changes:
+  - type: Add
+    message: >-
+      Added shield bashing, flash protection, and knockback on hit to most
+      shields.
+  - type: Tweak
+    message: >-
+      Changed the values of some shields, slowdown, more hp, different
+      parry/reflect stats, etc.
+  id: 1088
+  time: '2026-06-02T16:13:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2983
