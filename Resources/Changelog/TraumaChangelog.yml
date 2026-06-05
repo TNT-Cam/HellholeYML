@@ -9798,3 +9798,16 @@ Entries:
   id: 1111
   time: '2026-06-05T10:57:43.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3054
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Dragons breath is now actual fire instead of wizard's exploding fireball.
+      It spews fire over a wide area, though still stopped by anything it hits.
+  - type: Add
+    message: >-
+      Implemented Fire Breath mutation as a single-line version of dragons
+      breath.
+  id: 1112
+  time: '2026-06-05T12:02:24.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3055
