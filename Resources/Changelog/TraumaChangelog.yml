@@ -10116,3 +10116,14 @@ Entries:
   id: 1145
   time: '2026-06-13T05:44:37.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3157
+- author: Aviu
+  changes:
+  - type: Add
+    message: Mouse wheel to zoom.
+  - type: Add
+    message: Shift + mouse wheel to change targeting.
+  - type: Add
+    message: Ctrl + mouse wheel to rotate camera.
+  id: 1146
+  time: '2026-06-13T15:15:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3126
