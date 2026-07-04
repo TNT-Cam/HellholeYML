@@ -11015,3 +11015,10 @@ Entries:
   id: 1230
   time: '2026-07-04T00:21:43.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3417
+- author: Pi-tanium
+  changes:
+  - type: Tweak
+    message: Gutworms are curable with vitamins for now
+  id: 1231
+  time: '2026-07-04T08:53:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3416
