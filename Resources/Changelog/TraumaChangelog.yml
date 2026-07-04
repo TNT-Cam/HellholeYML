@@ -11054,3 +11054,10 @@ Entries:
   id: 1235
   time: '2026-07-04T09:15:50.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3425
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed AI getting doxxed by unpowered cameras.
+  id: 1236
+  time: '2026-07-04T20:27:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3434
