@@ -11079,3 +11079,26 @@ Entries:
   id: 1238
   time: '2026-07-05T09:07:41.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3441
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: >-
+      Decreased the amount of bluespace crystals needed to make energy chemical
+      dispensers
+  - type: Tweak
+    message: Decreased the amount of brute healing from mitotrophin
+  - type: Tweak
+    message: >-
+      Decreased the threshold on bicardines's OD and increased the damage, Same
+      with dylo which now does more damage
+  - type: Tweak
+    message: Genecides Genetic healing has been increased from 6 to 10
+  - type: Tweak
+    message: Arcryox's Brute/Burn Healing has been increased to 4.5 brute/burn per 0.5u
+  - type: Tweak
+    message: >-
+      Synthmeat's Recipe now is slightly easier to make and now provides 2x more
+      synthflesh from each piece of synthmeat
+  id: 1239
+  time: '2026-07-05T09:12:07.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3439
