@@ -53,6 +53,7 @@
     - DeterrentCaseFilled
   inhand:
   - WeaponPulseRifle
+  - SkillChipDeathSquad # Trauma
     # Goobstation End
 
 - type: chameleonOutfit

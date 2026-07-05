@@ -20,7 +20,7 @@
   special:
   - !type:OrganChipsSpecial
     chips:
-    - SkillChipCaptain # TODO: better chip
+    - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
   # </Trauma>
@@ -75,6 +75,8 @@
     - CrowbarRed
     - ERTSecurityUndeterminedWeapon
     #- MagazineMagnum # Goob
+  inhand:
+  - SkillChipCBURN # Trauma
 
 - type: startingGear
   parent: ERTLeaderGearEVA
@@ -120,6 +122,9 @@
   # Goobstation
   - NanotrasenRepresentative
   special:
+  - !type:OrganChipsSpecial
+        chips:
+        - SkillChipCBURN # TODO: better chip
   - !type:AddComponentSpecial
     components:
     - type: BibleUser #Lets them heal with bibles
@@ -197,6 +202,8 @@
     - Lighter
     - Nullrod # Goobstation
     - ExecutiveIDCard # Goobstation - Executive Access!
+  inhand:
+  - SkillChipCBURN # Trauma
 
 - type: chameleonOutfit
   id: ERTChaplainChameleonOutfit
@@ -225,6 +232,9 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
+  - !type:OrganChipsSpecial
+        chips:
+        - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
   # <Trauma>
@@ -315,6 +325,8 @@
     - WeaponPistolMk58
     - MagazinePistol
     - EmergencyMedipen
+  inhand:
+  - SkillChipCBURN # Trauma
 
 - type: startingGear
   parent: ERTEngineerGearEVA
@@ -361,6 +373,9 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
+  - !type:OrganChipsSpecial
+            chips:
+            - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
   # <Trauma>
@@ -430,6 +445,8 @@
     - TelescopicShield
     - HoloprojectorSecurity
     - PowerCellHigh
+  inhand:
+  - SkillChipCBURN # Trauma
 
 - type: startingGear
   id: ERTSecurityGearArmedRifle
@@ -445,8 +462,9 @@
     belt: ClothingBeltMilitaryWebbingERT
     pocket2: CombatKnife
     suitstorage: WeaponRifleLecter
+    back: WeaponLaserCannon
   inhand:
-    - WeaponLaserCannon
+    - SkillChipCBURN # Trauma
     - PortableRecharger
   storage:
     belt:
@@ -547,6 +565,9 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
+  - !type:OrganChipsSpecial
+    chips:
+    - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
   # <Trauma>
@@ -589,6 +610,8 @@
     - CartridgeAtropine
     - CartridgeAtropine
     - MedicalBeamGunBattery
+  inhand:
+  - SkillChipCBURN # Trauma
 
 - type: startingGear
   id: ERTMedicalGearEVA
@@ -661,6 +684,9 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
+  - !type:OrganChipsSpecial
+    chips:
+    - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
   # <Trauma>
@@ -730,6 +756,8 @@
     - WeaponPistolMk58
     - MagazinePistol
     - EmergencyMedipen
+  inhand:
+  - SkillChipCBURN # Trauma
 
 - type: chameleonOutfit
   id: ERTJanitorChameleonOutfit
