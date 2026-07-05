@@ -122,9 +122,6 @@
   # Goobstation
   - NanotrasenRepresentative
   special:
-  - !type:OrganChipsSpecial
-        chips:
-        - SkillChipCBURN # TODO: better chip
   - !type:AddComponentSpecial
     components:
     - type: BibleUser #Lets them heal with bibles
@@ -232,9 +229,6 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
-  - !type:OrganChipsSpecial
-        chips:
-        - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
   # <Trauma>
@@ -373,9 +367,6 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
-  - !type:OrganChipsSpecial
-            chips:
-            - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
   # <Trauma>
@@ -565,9 +556,6 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
-  - !type:OrganChipsSpecial
-    chips:
-    - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
   # <Trauma>
@@ -684,9 +672,6 @@
   # Goobstation
   - NanotrasenRepresentative
   special: # Goobstation
-  - !type:OrganChipsSpecial
-    chips:
-    - SkillChipCBURN # TODO: better chip
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
   # <Trauma>
