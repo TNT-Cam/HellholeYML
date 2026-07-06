@@ -120,11 +120,12 @@
   # Goobstation
   - NanotrasenRepresentative
   special:
-# <Trauma>
+  # <Trauma>
   - !type:OrganChipsSpecial
     chips:
-    - SkillChipERT
-# </Trauma>
+    - SkillChipChaplain
+    - SkillChipRifle
+  # </Trauma>
   - !type:AddComponentSpecial
     components:
     - type: BibleUser #Lets them heal with bibles
@@ -219,16 +220,16 @@
   - AllAccess
   access:
   - CentralCommand
-  # Goobstation
+  # <Trauma>
   - NanotrasenRepresentative
-  special: # Goobstation
+  special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
-# <Trauma>
   - !type:OrganChipsSpecial
     chips:
-    - SkillChipERT
-# </Trauma>
+    - SkillChipChiefEngineer
+    - SkillChipRifle
+  # </Trauma>
 
 - type: startingGear
   parent: ERTEngineerGearEVA
@@ -340,13 +341,15 @@
   - AllAccess
   access:
   - CentralCommand
-  # Goobstation
-  - NanotrasenRepresentative
-  special: # Goobstation
   # <Trauma>
+  - NanotrasenRepresentative
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
   - !type:OrganChipsSpecial
     chips:
-    - SkillChipERT
+    - SkillChipSecurityOfficer
+    - SkillChipRifle
   # </Trauma>
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
@@ -520,13 +523,15 @@
   - AllAccess
   access:
   - CentralCommand
-  # Goobstation
-  - NanotrasenRepresentative
-  special: # Goobstation
   # <Trauma>
+  - NanotrasenRepresentative
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
   - !type:OrganChipsSpecial
     chips:
-    - SkillChipERT
+    - SkillChipMedicalDoctor
+    - SkillChipRifle
   # </Trauma>
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
@@ -629,13 +634,15 @@
   - AllAccess
   access:
   - CentralCommand
-  # Goobstation
-  - NanotrasenRepresentative
-  special: # Goobstation
   # <Trauma>
+  - NanotrasenRepresentative
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
   - !type:OrganChipsSpecial
     chips:
-    - SkillChipERT
+    - SkillChipJanitor
+    - SkillChipRifle
   # </Trauma>
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm]
