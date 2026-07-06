@@ -45,8 +45,8 @@
 
 - type: entity
   parent: [ BaseSkillChip, BaseCentcommContraband ]
-  id: SkillChipCBURN
-  name: skill chip (CBURN)
+  id: SkillChipERT
+  name: skill chip (ERT)
   components:
   - type: KnowledgeGrantOnWear
     skills:
@@ -61,3 +61,12 @@
       # for cading..?
       FabricationKnowledge: 100
       MetalworkingKnowledge: 100
+      WallsKnowledge: 50
+      FurnitureKnowledge: 50
+      InfrastructureKnowledge: 50
+      WindowsKnowledge: 50
+      DoorsKnowledge: 50
+      AirlocksKnowledge: 50
+      MaterialsKnowledge: 50
+      JanitorKnowledge: 50
+      MagicalLiteracyKnowledge: 50
