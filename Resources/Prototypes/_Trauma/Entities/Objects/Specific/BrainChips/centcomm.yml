@@ -45,8 +45,8 @@
 
 - type: entity
   parent: [ BaseSkillChip, BaseCentcommContraband ]
-  id: SkillChipCBURN
-  name: skill chip (CBURN)
+  id: SkillChipERT
+  name: skill chip (ERT)
   components:
   - type: KnowledgeGrantOnWear
     skills:
